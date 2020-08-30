@@ -1,4 +1,4 @@
-{"id": str(uuid.uuid4()),
+{
 "AccountAlias": "spe-corp-latamfs-dev",
 "AccountEmail": "spe.corp.latamfs.dev.cloud@spe.sony.com",
 "AccountPrefix": "1446"
