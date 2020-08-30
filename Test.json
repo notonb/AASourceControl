@@ -1,1 +1,1 @@
-{'id': 'Andersen_1d492dcc-8c72-4d3e-8b09-c2a0349ea44e', 'AccountEmail': 'Andersen', 'district': 'WA5', 'parents': [{'familyName': None, 'firstName': 'Thomas'}, {'familyName': None, 'firstName': 'Mary Kay'}], 'children': None, 'address': {'state': 'WA', 'county': 'King', 'city': 'Seattle'}, 'registered': True}
+{'id': 'Notonesh', 'AccountAlias': 'spe-corp-latamfs-dev', 'AccountEmail': 'spe.corp.latamfs.dev.cloud@spe.sony.com'}
